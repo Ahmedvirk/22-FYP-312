@@ -1,0 +1,39 @@
+{
+    "project_info": {
+      "project_number": "605580059155",
+      "project_id": "doctorapp-6e8f4",
+      "storage_bucket": "doctorapp-6e8f4.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:605580059155:android:75273d10eb6e8db9d215e6",
+          "android_client_info": {
+            "package_name": "com.example.veterinaryapp"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "605580059155-7f41amcgimh134lq3ncasvlqubonfkg5.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyANH7im66Rnlpg5SFL4gNLVZ36NE1DYCN8"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "605580059155-7f41amcgimh134lq3ncasvlqubonfkg5.apps.googleusercontent.com",
+                "client_type": 3
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }

@@ -1,0 +1,12 @@
+* Vet doctor app
+* List of doctors (available doctors)
+* (if online or not)
+* Consult doctor
+* view doctor profile
+* appointment
+* message 
+* call
+* get prescription
+* Medicine dictionary (vet medicine lists with some details)
+* Nearby hospitals (can be with or without Google maps)
+* news about health (written by doctor)

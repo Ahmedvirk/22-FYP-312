@@ -1,0 +1,67 @@
+name: veterinaryapp
+description: A new Flutter project.
+
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  cupertino_icons: ^1.0.2
+  
+
+
+  flutter_chat_ui:
+  firebase_core:
+  firebase_auth:
+  firebase_storage:
+  cloud_firestore:
+  carousel_slider:
+
+  webview_flutter:
+
+  file_picker:
+  mime:
+  open_file:
+  uuid:
+  geolocator:
+  geocoding: 
+  
+  image_picker:
+  path_provider:
+  image:
+  cloud_functions: ^3.2.16
+  animated_splash_screen:
+  url_launcher:
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^1.0.0
+  flutter_launcher_icons:
+
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/logo.png"
+
+    
+
+
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/icons/
+    - assets/images/
+    - assets/upload/
+    - assets/logo.png
